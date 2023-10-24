@@ -1,3 +1,3 @@
 # Phōs
  
-Abrazileirando "Phishing as a service" no "Blue team"...
+Desenvolvendo o conceito de Phishing as a service no Blue team.
